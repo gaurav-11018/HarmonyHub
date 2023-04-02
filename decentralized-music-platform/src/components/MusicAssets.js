@@ -4,7 +4,7 @@ import {
   HarmonyTokenContract,
   CollaborationContract,
   LicensingContract,
-} from "../web3/contracts";
+} from "../contracts";
 
 function MusicAssets() {
   const [musicAssets, setMusicAssets] = useState([]);
