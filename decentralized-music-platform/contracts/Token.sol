@@ -9,3 +9,4 @@ contract HarmonyToken is ERC20 {
     }
 }
 //This is a ERC20 token contract for platform transactions, such as payments, rewards, and staking. You can use OpenZeppelin's ERC20 implementation as a starting point.
+//0x65d87942e42527117a1e5BCD56A5A154560B1c06
